@@ -204,7 +204,7 @@ plt.show()
 ```
 
 ### OUTPUT:
-ORGINAL SALARY DATA:
+ORIGINAL SALARY DATA:
 
 <img width="966" height="512" alt="image" src="https://github.com/user-attachments/assets/5df7bce9-1abd-43a1-8a3a-1f0e820bfa68" />
 
